@@ -1,0 +1,6 @@
+number of matrix elements: 9
+number of rows: 3
+number of cols: 3
+sum of main diag elements: -1.16381846143746
+row sums: -0.429481021167904, -0.0312492040024417, -1.82770453315231
+col sums: -2.91931102465539, -0.0776793242322554, 0.708555590564993
